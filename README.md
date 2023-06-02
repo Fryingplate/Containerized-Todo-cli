@@ -35,4 +35,6 @@ So basically there 5 commands
 
 ## Contributing
 
+Added a dockerfile for this project
+
 Contributions are always welcome!
