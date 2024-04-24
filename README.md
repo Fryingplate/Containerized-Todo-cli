@@ -1,6 +1,7 @@
 # Python CLI-TOdo   
 A brief description of what this project does and who it's for  
-This is Python CLI-TOdo Application which helps you to manage the tasks and Track them.     
+This is Python CLI-TOdo Application which helps you to manage the tasks and Track them. 
+Github actions is used in this 
 
 # Hi, I'm Md Sami ! 👋  
 
