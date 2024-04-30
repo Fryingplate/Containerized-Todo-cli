@@ -6,7 +6,8 @@ Github actions is used in this
 # Hi, I'm Md Sami ! 👋  
 
 ## 🚀 About Me
-I'm a CS Student and Interested in DevOps/Cloud and Machine Learning...        
+I'm a CS Student and Interested in DevOps/Cloud and Machine Learning...    
+i am interested in Devops
 
 
 ## Usage/Examples
